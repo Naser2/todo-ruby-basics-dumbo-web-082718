@@ -6,16 +6,16 @@ def assign_variable(value)
  return  name ="Bob"
 end
 
-def argue(word)
-  return word
+def argue
+  return 
 end
 
 def greeting(name, phrase)
-return name + prhase 
+return "Nice"
 end
 
 def return_a_value
-
+ retur "expert"
 end
 
 def last_evaluated_value
